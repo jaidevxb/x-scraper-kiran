@@ -51,6 +51,13 @@ if [ ! -f "$ENV_FILE" ]; then
   ok "created .env from .env.example"
 fi
 
+# A .env handed over from a Windows machine arrives with CRLF endings. Normalise
+# it once, here, rather than defending against \r at every read site.
+if LC_ALL=C grep -q $'\r' "$ENV_FILE" 2>/dev/null; then
+  /usr/bin/sed -i '' $'s/\r$//' "$ENV_FILE"
+  ok "converted .env from Windows (CRLF) to Unix (LF) line endings"
+fi
+
 if ! grep -qE '^APIFY_TOKEN=.+' "$ENV_FILE"; then
   echo
   bold "Apify API token needed"
@@ -71,7 +78,11 @@ ok ".env locked down to owner-only (chmod 600)"
 # --- 4. read settings back so the plist matches the config ---------------
 read_setting() {
   local key="$1" default="$2" value
-  value=$(grep -E "^$key=" "$ENV_FILE" 2>/dev/null | tail -1 | cut -d= -f2- | tr -d '"' | tr -d "'" | xargs || true)
+  # tr -d '\r' matters: a .env edited or transferred from Windows has CRLF
+  # endings, and a stray \r would end up inside the generated plist or create a
+  # directory with a carriage return in its name.
+  value=$(grep -E "^$key=" "$ENV_FILE" 2>/dev/null | tail -1 | cut -d= -f2- \
+          | tr -d '\r' | tr -d '"' | tr -d "'" | xargs || true)
   echo "${value:-$default}"
 }
 HOUR=$(read_setting SCHEDULE_HOUR 22)

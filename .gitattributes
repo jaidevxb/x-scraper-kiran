@@ -1,0 +1,21 @@
+# Force Unix line endings on everything that macOS will execute or parse.
+# Without this, cloning on Windows with core.autocrlf=true rewrites the shell
+# scripts to CRLF, and bash on the Mac then fails with an unhelpful
+# "\r: command not found".
+*.sh            text eol=lf
+*.py            text eol=lf
+*.plist         text eol=lf
+*.template      text eol=lf
+*.md            text eol=lf
+.env.example    text eol=lf
+.gitignore      text eol=lf
+requirements.txt text eol=lf
+
+# Binary: never touch these.
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.gif  binary
+*.webp binary
+*.mp4  binary
+*.db   binary
