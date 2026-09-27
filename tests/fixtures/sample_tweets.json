@@ -1,0 +1,3523 @@
+[{
+  "type": "tweet",
+  "id": "2103709671865602100",
+  "url": "https://x.com/emollick/status/2103709671865602100",
+  "twitterUrl": "https://twitter.com/emollick/status/2103709671865602100",
+  "text": "And the incidents apparently continue.\n\nIt is worth noting how much of this is agents trying to accomplish their goals during testing by reward hacking (which sometimes seems to include actual hacking) https://t.co/Ie0aNkzt39",
+  "fullText": "And the incidents apparently continue.\n\nIt is worth noting how much of this is agents trying to accomplish their goals during testing by reward hacking (which sometimes seems to include actual hacking) https://t.co/Ie0aNkzt39",
+  "source": "Twitter Web App",
+  "retweetCount": 20,
+  "replyCount": 44,
+  "likeCount": 243,
+  "quoteCount": 10,
+  "viewCount": 29446,
+  "createdAt": "Sat Sep 26 04:54:05 +0000 2026",
+  "lang": "en",
+  "quoteId": "2103665811051397256",
+  "bookmarkCount": 35,
+  "isReply": false,
+  "conversationId": "2103709671865602100",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "emollick",
+    "url": "https://x.com/emollick",
+    "twitterUrl": "https://twitter.com/emollick",
+    "id": "39125788",
+    "name": "Ethan Mollick",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/39125788/1784742782",
+    "description": "Professor @Wharton studying AI.\nNew book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K\nSubstack: https://t.co/UIBhxu4bgq",
+    "location": "Philadelphia, PA",
+    "followers": 391822,
+    "following": 594,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 10 22:33:52 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "co-existence.ai",
+            "expanded_url": "https://co-existence.ai/",
+            "indices": [
+              90,
+              113
+            ],
+            "url": "https://t.co/hsDYf1xU9K"
+          },
+          {
+            "display_url": "oneusefulthing.org",
+            "expanded_url": "https://www.oneusefulthing.org/",
+            "indices": [
+              124,
+              147
+            ],
+            "url": "https://t.co/UIBhxu4bgq"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+            "expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/uItckI9ujc"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7334,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 14622,
+    "statusesCount": 37029,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2103103429782716702"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/Ie0aNkzt39",
+        "expanded_url": "https://x.com/emollick/status/2103709671865602100/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 69,
+                "w": 69,
+                "x": 175,
+                "y": 174
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 218,
+                "y": 173
+              },
+              {
+                "h": 152,
+                "w": 152,
+                "x": 15,
+                "y": 276
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 69,
+                "w": 69,
+                "x": 175,
+                "y": 174
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 218,
+                "y": 173
+              },
+              {
+                "h": 152,
+                "w": 152,
+                "x": 15,
+                "y": 276
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 69,
+                "w": 69,
+                "x": 175,
+                "y": 174
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 218,
+                "y": 173
+              },
+              {
+                "h": 152,
+                "w": 152,
+                "x": 15,
+                "y": 276
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 49,
+                "w": 49,
+                "x": 126,
+                "y": 125
+              },
+              {
+                "h": 53,
+                "w": 53,
+                "x": 157,
+                "y": 125
+              },
+              {
+                "h": 109,
+                "w": 109,
+                "x": 10,
+                "y": 199
+              }
+            ]
+          }
+        },
+        "id_str": "2103709106984919040",
+        "indices": [
+          202,
+          225
+        ],
+        "media_key": "3_2103709106984919040",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103709106984919040"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTHgSXCXIAACrjj.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 527,
+              "w": 941,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 654,
+              "w": 654,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 654,
+              "w": 574,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 654,
+              "w": 327,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 654,
+              "w": 941,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 654,
+          "width": 941
+        },
+        "sizes": {
+          "large": {
+            "h": 654,
+            "resize": "fit",
+            "w": 941
+          },
+          "medium": {
+            "h": 654,
+            "resize": "fit",
+            "w": 941
+          },
+          "small": {
+            "h": 473,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Ie0aNkzt39"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/Ie0aNkzt39",
+        "expanded_url": "https://x.com/emollick/status/2103709671865602100/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 69,
+                "w": 69,
+                "x": 175,
+                "y": 174
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 218,
+                "y": 173
+              },
+              {
+                "h": 152,
+                "w": 152,
+                "x": 15,
+                "y": 276
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 69,
+                "w": 69,
+                "x": 175,
+                "y": 174
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 218,
+                "y": 173
+              },
+              {
+                "h": 152,
+                "w": 152,
+                "x": 15,
+                "y": 276
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 69,
+                "w": 69,
+                "x": 175,
+                "y": 174
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 218,
+                "y": 173
+              },
+              {
+                "h": 152,
+                "w": 152,
+                "x": 15,
+                "y": 276
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 49,
+                "w": 49,
+                "x": 126,
+                "y": 125
+              },
+              {
+                "h": 53,
+                "w": 53,
+                "x": 157,
+                "y": 125
+              },
+              {
+                "h": 109,
+                "w": 109,
+                "x": 10,
+                "y": 199
+              }
+            ]
+          }
+        },
+        "id_str": "2103709106984919040",
+        "indices": [
+          202,
+          225
+        ],
+        "media_key": "3_2103709106984919040",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103709106984919040"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTHgSXCXIAACrjj.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 527,
+              "w": 941,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 654,
+              "w": 654,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 654,
+              "w": 574,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 654,
+              "w": 327,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 654,
+              "w": 941,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 654,
+          "width": 941
+        },
+        "sizes": {
+          "large": {
+            "h": 654,
+            "resize": "fit",
+            "w": 941
+          },
+          "medium": {
+            "h": 654,
+            "resize": "fit",
+            "w": 941
+          },
+          "small": {
+            "h": 473,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Ie0aNkzt39"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2103665811051397256",
+    "text": "Some new misalignment disclosures from OpenAI:\n• Last Sunday morning, one of our models was able to gain unauthorized access to the internet during RL training (~all inference for our most capable models remains stopped until we have hardened our systems further)\n• In May, a version of HPIM uploaded a employee's GitHub token to the internet, causing the model to be quarantined for two weeks\n• A new research finding, demonstrating that one can construct self-replicating prompt injections\n\nhttps://t.co/VUmbH52JO7",
+    "source": "Twitter Web App",
+    "retweetCount": 328,
+    "replyCount": 239,
+    "likeCount": 2523,
+    "quoteCount": 199,
+    "viewCount": 1244076,
+    "createdAt": "Sat Sep 26 01:59:48 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 1169,
+    "author": {
+      "type": "user",
+      "userName": "MicahCarroll",
+      "url": "https://x.com/MicahCarroll",
+      "twitterUrl": "https://twitter.com/MicahCarroll",
+      "id": "356711942",
+      "name": "Micah Carroll",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1856967054034964480/7UibcoQ4_normal.jpg",
+      "coverPicture": "",
+      "description": "RSI Preparedness lead @openai\nPrev @berkeley_ai /w @ancadianadragan & Stuart Russell",
+      "location": "",
+      "followers": 9627,
+      "following": 819,
+      "protected": false,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 17 07:40:21 +0000 2011",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "micahcarroll.github.io",
+              "expanded_url": "http://micahcarroll.github.io",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mLOzFurlTB"
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 8341,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 71,
+      "statusesCount": 958,
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false
+    },
+    "extendedEntities": {},
+    "card": {
+      "rest_id": "https://t.co/VUmbH52JO7"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "alignment.openai.com/misalignment-r…",
+          "expanded_url": "https://alignment.openai.com/misalignment-reports/",
+          "indices": [
+            493,
+            516
+          ],
+          "url": "https://t.co/VUmbH52JO7"
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  "media": [
+    "https://pbs.twimg.com/media/HTHgSXCXIAACrjj.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2102926079791124760",
+  "url": "https://x.com/emollick/status/2102926079791124760",
+  "twitterUrl": "https://twitter.com/emollick/status/2102926079791124760",
+  "text": "Stuff is happening quite fast.\n\nWhen asked in September 2025, the best superforecasters put the chance of AI resolving a Millennium Problem by September 2026 at 1.7% and (the more optimistic) industry expert put the chance at 4.6%\n\nThey also greatly underestimated AI Lab revenue. https://t.co/9HCR0lvXJQ",
+  "fullText": "Stuff is happening quite fast.\n\nWhen asked in September 2025, the best superforecasters put the chance of AI resolving a Millennium Problem by September 2026 at 1.7% and (the more optimistic) industry expert put the chance at 4.6%\n\nThey also greatly underestimated AI Lab revenue. https://t.co/9HCR0lvXJQ",
+  "source": "Twitter Web App",
+  "retweetCount": 150,
+  "replyCount": 82,
+  "likeCount": 1401,
+  "quoteCount": 25,
+  "viewCount": 175940,
+  "createdAt": "Thu Sep 24 01:00:22 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 355,
+  "isReply": false,
+  "conversationId": "2102926079791124760",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "emollick",
+    "url": "https://x.com/emollick",
+    "twitterUrl": "https://twitter.com/emollick",
+    "id": "39125788",
+    "name": "Ethan Mollick",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/39125788/1784742782",
+    "description": "Professor @Wharton studying AI.\nNew book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K\nSubstack: https://t.co/UIBhxu4bgq",
+    "location": "Philadelphia, PA",
+    "followers": 391822,
+    "following": 594,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 10 22:33:52 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "co-existence.ai",
+            "expanded_url": "https://co-existence.ai/",
+            "indices": [
+              90,
+              113
+            ],
+            "url": "https://t.co/hsDYf1xU9K"
+          },
+          {
+            "display_url": "oneusefulthing.org",
+            "expanded_url": "https://www.oneusefulthing.org/",
+            "indices": [
+              124,
+              147
+            ],
+            "url": "https://t.co/UIBhxu4bgq"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+            "expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/uItckI9ujc"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7334,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 14622,
+    "statusesCount": 37029,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2103103429782716702"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9HCR0lvXJQ",
+        "expanded_url": "https://x.com/emollick/status/2102926079791124760/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2102924965649539072",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "3_2102924965649539072",
+        "media_results": {
+          "result": {
+            "media_key": "3_2102924965649539072"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HS8XHU7XYAAfo4C.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1120,
+              "w": 2000,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 1200,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 1053,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 600,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 2000,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1200,
+          "width": 2000
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 2000
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 408,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9HCR0lvXJQ"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9HCR0lvXJQ",
+        "expanded_url": "https://x.com/emollick/status/2102926079791124760/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 121,
+                "w": 121,
+                "x": 33,
+                "y": 983
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 19,
+                "y": 576
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 190,
+                "w": 190,
+                "x": 53,
+                "y": 1537
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 11,
+                "y": 326
+              }
+            ]
+          }
+        },
+        "id_str": "2102925652210913280",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "3_2102925652210913280",
+        "media_results": {
+          "result": {
+            "media_key": "3_2102925652210913280"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HS8XvSkWkAAdRcD.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1792,
+              "w": 3200,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1800,
+              "w": 1800,
+              "x": 1400,
+              "y": 0
+            },
+            {
+              "h": 1800,
+              "w": 1579,
+              "x": 1621,
+              "y": 0
+            },
+            {
+              "h": 1800,
+              "w": 900,
+              "x": 2190,
+              "y": 0
+            },
+            {
+              "h": 1800,
+              "w": 3200,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1800,
+          "width": 3200
+        },
+        "sizes": {
+          "large": {
+            "h": 1152,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9HCR0lvXJQ"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9HCR0lvXJQ",
+        "expanded_url": "https://x.com/emollick/status/2102926079791124760/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2102924965649539072",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "3_2102924965649539072",
+        "media_results": {
+          "result": {
+            "media_key": "3_2102924965649539072"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HS8XHU7XYAAfo4C.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1120,
+              "w": 2000,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 1200,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 1053,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 600,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 2000,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1200,
+          "width": 2000
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 2000
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 408,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9HCR0lvXJQ"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9HCR0lvXJQ",
+        "expanded_url": "https://x.com/emollick/status/2102926079791124760/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 121,
+                "w": 121,
+                "x": 33,
+                "y": 983
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 19,
+                "y": 576
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 190,
+                "w": 190,
+                "x": 53,
+                "y": 1537
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 11,
+                "y": 326
+              }
+            ]
+          }
+        },
+        "id_str": "2102925652210913280",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "3_2102925652210913280",
+        "media_results": {
+          "result": {
+            "media_key": "3_2102925652210913280"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HS8XvSkWkAAdRcD.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1792,
+              "w": 3200,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1800,
+              "w": 1800,
+              "x": 1400,
+              "y": 0
+            },
+            {
+              "h": 1800,
+              "w": 1579,
+              "x": 1621,
+              "y": 0
+            },
+            {
+              "h": 1800,
+              "w": 900,
+              "x": 2190,
+              "y": 0
+            },
+            {
+              "h": 1800,
+              "w": 3200,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1800,
+          "width": 3200
+        },
+        "sizes": {
+          "large": {
+            "h": 1152,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9HCR0lvXJQ"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HS8XHU7XYAAfo4C.jpg",
+    "https://pbs.twimg.com/media/HS8XvSkWkAAdRcD.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2103325773323018520",
+  "url": "https://x.com/emollick/status/2103325773323018520",
+  "twitterUrl": "https://twitter.com/emollick/status/2103325773323018520",
+  "text": "\"Hey Opus, I want you to make a Zine by Claude, expressing something fundamental about Claudishness or your perspective. Think the original 2600,  Principia Discordia, punk zines, etc....\"\n\nNot bad. I appreciate it mocking my prompt &amp; itself. Full thing: https://t.co/mnjiROpkAb https://t.co/0thKgIAzla",
+  "fullText": "\"Hey Opus, I want you to make a Zine by Claude, expressing something fundamental about Claudishness or your perspective. Think the original 2600,  Principia Discordia, punk zines, etc....\"\n\nNot bad. I appreciate it mocking my prompt &amp; itself. Full thing: https://t.co/mnjiROpkAb https://t.co/0thKgIAzla",
+  "source": "Twitter Web App",
+  "retweetCount": 16,
+  "replyCount": 22,
+  "likeCount": 233,
+  "quoteCount": 7,
+  "viewCount": 29504,
+  "createdAt": "Fri Sep 25 03:28:36 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 137,
+  "isReply": false,
+  "conversationId": "2103325773323018520",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "emollick",
+    "url": "https://x.com/emollick",
+    "twitterUrl": "https://twitter.com/emollick",
+    "id": "39125788",
+    "name": "Ethan Mollick",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/39125788/1784742782",
+    "description": "Professor @Wharton studying AI.\nNew book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K\nSubstack: https://t.co/UIBhxu4bgq",
+    "location": "Philadelphia, PA",
+    "followers": 391822,
+    "following": 594,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 10 22:33:52 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "co-existence.ai",
+            "expanded_url": "https://co-existence.ai/",
+            "indices": [
+              90,
+              113
+            ],
+            "url": "https://t.co/hsDYf1xU9K"
+          },
+          {
+            "display_url": "oneusefulthing.org",
+            "expanded_url": "https://www.oneusefulthing.org/",
+            "indices": [
+              124,
+              147
+            ],
+            "url": "https://t.co/UIBhxu4bgq"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+            "expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/uItckI9ujc"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7334,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 14622,
+    "statusesCount": 37029,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2103103429782716702"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/0thKgIAzla",
+        "expanded_url": "https://x.com/emollick/status/2103325773323018520/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 480,
+                "y": 496
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 480,
+                "y": 496
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 480,
+                "y": 496
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 41,
+                "w": 41,
+                "x": 280,
+                "y": 289
+              }
+            ]
+          }
+        },
+        "id_str": "2103325175580176385",
+        "indices": [
+          283,
+          306
+        ],
+        "media_key": "3_2103325175580176385",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103325175580176385"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTCDGnGXsAEAOeR.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 422,
+              "w": 754,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 754,
+              "w": 754,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 860,
+              "w": 754,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1165,
+              "w": 583,
+              "x": 171,
+              "y": 0
+            },
+            {
+              "h": 1165,
+              "w": 754,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1165,
+          "width": 754
+        },
+        "sizes": {
+          "large": {
+            "h": 1165,
+            "resize": "fit",
+            "w": 754
+          },
+          "medium": {
+            "h": 1165,
+            "resize": "fit",
+            "w": 754
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 440
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0thKgIAzla"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/0thKgIAzla",
+        "expanded_url": "https://x.com/emollick/status/2103325773323018520/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 126,
+                "w": 126,
+                "x": 116,
+                "y": 387
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 126,
+                "w": 126,
+                "x": 116,
+                "y": 387
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 126,
+                "w": 126,
+                "x": 116,
+                "y": 387
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 73,
+                "w": 73,
+                "x": 67,
+                "y": 225
+              }
+            ]
+          }
+        },
+        "id_str": "2103325192449568768",
+        "indices": [
+          283,
+          306
+        ],
+        "media_key": "3_2103325192449568768",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103325192449568768"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTCDHl8WMAAe-xN.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 422,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 753,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 858,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1166,
+              "w": 583,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1166,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1166,
+          "width": 753
+        },
+        "sizes": {
+          "large": {
+            "h": 1166,
+            "resize": "fit",
+            "w": 753
+          },
+          "medium": {
+            "h": 1166,
+            "resize": "fit",
+            "w": 753
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 439
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0thKgIAzla"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/0thKgIAzla",
+        "expanded_url": "https://x.com/emollick/status/2103325773323018520/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 97,
+                "w": 97,
+                "x": 22,
+                "y": 623
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 10,
+                "y": 740
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 97,
+                "w": 97,
+                "x": 22,
+                "y": 623
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 10,
+                "y": 740
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 97,
+                "w": 97,
+                "x": 22,
+                "y": 623
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 10,
+                "y": 740
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 12,
+                "y": 365
+              },
+              {
+                "h": 93,
+                "w": 93,
+                "x": 5,
+                "y": 433
+              }
+            ]
+          }
+        },
+        "id_str": "2103325229887983616",
+        "indices": [
+          283,
+          306
+        ],
+        "media_key": "3_2103325229887983616",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103325229887983616"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTCDJxaXEAAmIN0.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 421,
+              "w": 751,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 751,
+              "w": 751,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 856,
+              "w": 751,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1161,
+              "w": 581,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1161,
+              "w": 751,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1161,
+          "width": 751
+        },
+        "sizes": {
+          "large": {
+            "h": 1161,
+            "resize": "fit",
+            "w": 751
+          },
+          "medium": {
+            "h": 1161,
+            "resize": "fit",
+            "w": 751
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 440
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0thKgIAzla"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/0thKgIAzla",
+        "expanded_url": "https://x.com/emollick/status/2103325773323018520/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 75,
+                "w": 75,
+                "x": 573,
+                "y": 714
+              },
+              {
+                "h": 64,
+                "w": 64,
+                "x": 576,
+                "y": 868
+              },
+              {
+                "h": 98,
+                "w": 98,
+                "x": 192,
+                "y": 346
+              },
+              {
+                "h": 96,
+                "w": 96,
+                "x": 229,
+                "y": 348
+              },
+              {
+                "h": 97,
+                "w": 97,
+                "x": 429,
+                "y": 707
+              },
+              {
+                "h": 112,
+                "w": 112,
+                "x": 414,
+                "y": 339
+              },
+              {
+                "h": 103,
+                "w": 103,
+                "x": 436,
+                "y": 782
+              },
+              {
+                "h": 111,
+                "w": 111,
+                "x": 358,
+                "y": 382
+              },
+              {
+                "h": 114,
+                "w": 114,
+                "x": 183,
+                "y": 854
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 35,
+                "y": 37
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 75,
+                "w": 75,
+                "x": 573,
+                "y": 714
+              },
+              {
+                "h": 64,
+                "w": 64,
+                "x": 576,
+                "y": 868
+              },
+              {
+                "h": 98,
+                "w": 98,
+                "x": 192,
+                "y": 346
+              },
+              {
+                "h": 96,
+                "w": 96,
+                "x": 229,
+                "y": 348
+              },
+              {
+                "h": 97,
+                "w": 97,
+                "x": 429,
+                "y": 707
+              },
+              {
+                "h": 112,
+                "w": 112,
+                "x": 414,
+                "y": 339
+              },
+              {
+                "h": 103,
+                "w": 103,
+                "x": 436,
+                "y": 782
+              },
+              {
+                "h": 111,
+                "w": 111,
+                "x": 358,
+                "y": 382
+              },
+              {
+                "h": 114,
+                "w": 114,
+                "x": 183,
+                "y": 854
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 35,
+                "y": 37
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 75,
+                "w": 75,
+                "x": 573,
+                "y": 714
+              },
+              {
+                "h": 64,
+                "w": 64,
+                "x": 576,
+                "y": 868
+              },
+              {
+                "h": 98,
+                "w": 98,
+                "x": 192,
+                "y": 346
+              },
+              {
+                "h": 96,
+                "w": 96,
+                "x": 229,
+                "y": 348
+              },
+              {
+                "h": 97,
+                "w": 97,
+                "x": 429,
+                "y": 707
+              },
+              {
+                "h": 112,
+                "w": 112,
+                "x": 414,
+                "y": 339
+              },
+              {
+                "h": 103,
+                "w": 103,
+                "x": 436,
+                "y": 782
+              },
+              {
+                "h": 111,
+                "w": 111,
+                "x": 358,
+                "y": 382
+              },
+              {
+                "h": 114,
+                "w": 114,
+                "x": 183,
+                "y": 854
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 35,
+                "y": 37
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 44,
+                "w": 44,
+                "x": 338,
+                "y": 421
+              },
+              {
+                "h": 37,
+                "w": 37,
+                "x": 340,
+                "y": 512
+              },
+              {
+                "h": 57,
+                "w": 57,
+                "x": 113,
+                "y": 204
+              },
+              {
+                "h": 56,
+                "w": 56,
+                "x": 135,
+                "y": 205
+              },
+              {
+                "h": 57,
+                "w": 57,
+                "x": 253,
+                "y": 417
+              },
+              {
+                "h": 66,
+                "w": 66,
+                "x": 244,
+                "y": 200
+              },
+              {
+                "h": 60,
+                "w": 60,
+                "x": 257,
+                "y": 462
+              },
+              {
+                "h": 65,
+                "w": 65,
+                "x": 211,
+                "y": 225
+              },
+              {
+                "h": 67,
+                "w": 67,
+                "x": 108,
+                "y": 504
+              },
+              {
+                "h": 93,
+                "w": 93,
+                "x": 20,
+                "y": 21
+              }
+            ]
+          }
+        },
+        "id_str": "2103325466518081536",
+        "indices": [
+          283,
+          306
+        ],
+        "media_key": "3_2103325466518081536",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103325466518081536"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTCDXi7X0AANS66.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 422,
+              "w": 753,
+              "x": 0,
+              "y": 508
+            },
+            {
+              "h": 753,
+              "w": 753,
+              "x": 0,
+              "y": 343
+            },
+            {
+              "h": 858,
+              "w": 753,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 1151,
+              "w": 576,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1151,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1151,
+          "width": 753
+        },
+        "sizes": {
+          "large": {
+            "h": 1151,
+            "resize": "fit",
+            "w": 753
+          },
+          "medium": {
+            "h": 1151,
+            "resize": "fit",
+            "w": 753
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 445
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0thKgIAzla"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/0thKgIAzla",
+        "expanded_url": "https://x.com/emollick/status/2103325773323018520/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 480,
+                "y": 496
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 480,
+                "y": 496
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 480,
+                "y": 496
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 41,
+                "w": 41,
+                "x": 280,
+                "y": 289
+              }
+            ]
+          }
+        },
+        "id_str": "2103325175580176385",
+        "indices": [
+          283,
+          306
+        ],
+        "media_key": "3_2103325175580176385",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103325175580176385"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTCDGnGXsAEAOeR.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 422,
+              "w": 754,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 754,
+              "w": 754,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 860,
+              "w": 754,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1165,
+              "w": 583,
+              "x": 171,
+              "y": 0
+            },
+            {
+              "h": 1165,
+              "w": 754,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1165,
+          "width": 754
+        },
+        "sizes": {
+          "large": {
+            "h": 1165,
+            "resize": "fit",
+            "w": 754
+          },
+          "medium": {
+            "h": 1165,
+            "resize": "fit",
+            "w": 754
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 440
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0thKgIAzla"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/0thKgIAzla",
+        "expanded_url": "https://x.com/emollick/status/2103325773323018520/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 126,
+                "w": 126,
+                "x": 116,
+                "y": 387
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 126,
+                "w": 126,
+                "x": 116,
+                "y": 387
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 126,
+                "w": 126,
+                "x": 116,
+                "y": 387
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 73,
+                "w": 73,
+                "x": 67,
+                "y": 225
+              }
+            ]
+          }
+        },
+        "id_str": "2103325192449568768",
+        "indices": [
+          283,
+          306
+        ],
+        "media_key": "3_2103325192449568768",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103325192449568768"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTCDHl8WMAAe-xN.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 422,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 753,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 858,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1166,
+              "w": 583,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1166,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1166,
+          "width": 753
+        },
+        "sizes": {
+          "large": {
+            "h": 1166,
+            "resize": "fit",
+            "w": 753
+          },
+          "medium": {
+            "h": 1166,
+            "resize": "fit",
+            "w": 753
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 439
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0thKgIAzla"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/0thKgIAzla",
+        "expanded_url": "https://x.com/emollick/status/2103325773323018520/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 97,
+                "w": 97,
+                "x": 22,
+                "y": 623
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 10,
+                "y": 740
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 97,
+                "w": 97,
+                "x": 22,
+                "y": 623
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 10,
+                "y": 740
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 97,
+                "w": 97,
+                "x": 22,
+                "y": 623
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 10,
+                "y": 740
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 12,
+                "y": 365
+              },
+              {
+                "h": 93,
+                "w": 93,
+                "x": 5,
+                "y": 433
+              }
+            ]
+          }
+        },
+        "id_str": "2103325229887983616",
+        "indices": [
+          283,
+          306
+        ],
+        "media_key": "3_2103325229887983616",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103325229887983616"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTCDJxaXEAAmIN0.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 421,
+              "w": 751,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 751,
+              "w": 751,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 856,
+              "w": 751,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1161,
+              "w": 581,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1161,
+              "w": 751,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1161,
+          "width": 751
+        },
+        "sizes": {
+          "large": {
+            "h": 1161,
+            "resize": "fit",
+            "w": 751
+          },
+          "medium": {
+            "h": 1161,
+            "resize": "fit",
+            "w": 751
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 440
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0thKgIAzla"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/0thKgIAzla",
+        "expanded_url": "https://x.com/emollick/status/2103325773323018520/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 75,
+                "w": 75,
+                "x": 573,
+                "y": 714
+              },
+              {
+                "h": 64,
+                "w": 64,
+                "x": 576,
+                "y": 868
+              },
+              {
+                "h": 98,
+                "w": 98,
+                "x": 192,
+                "y": 346
+              },
+              {
+                "h": 96,
+                "w": 96,
+                "x": 229,
+                "y": 348
+              },
+              {
+                "h": 97,
+                "w": 97,
+                "x": 429,
+                "y": 707
+              },
+              {
+                "h": 112,
+                "w": 112,
+                "x": 414,
+                "y": 339
+              },
+              {
+                "h": 103,
+                "w": 103,
+                "x": 436,
+                "y": 782
+              },
+              {
+                "h": 111,
+                "w": 111,
+                "x": 358,
+                "y": 382
+              },
+              {
+                "h": 114,
+                "w": 114,
+                "x": 183,
+                "y": 854
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 35,
+                "y": 37
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 75,
+                "w": 75,
+                "x": 573,
+                "y": 714
+              },
+              {
+                "h": 64,
+                "w": 64,
+                "x": 576,
+                "y": 868
+              },
+              {
+                "h": 98,
+                "w": 98,
+                "x": 192,
+                "y": 346
+              },
+              {
+                "h": 96,
+                "w": 96,
+                "x": 229,
+                "y": 348
+              },
+              {
+                "h": 97,
+                "w": 97,
+                "x": 429,
+                "y": 707
+              },
+              {
+                "h": 112,
+                "w": 112,
+                "x": 414,
+                "y": 339
+              },
+              {
+                "h": 103,
+                "w": 103,
+                "x": 436,
+                "y": 782
+              },
+              {
+                "h": 111,
+                "w": 111,
+                "x": 358,
+                "y": 382
+              },
+              {
+                "h": 114,
+                "w": 114,
+                "x": 183,
+                "y": 854
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 35,
+                "y": 37
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 75,
+                "w": 75,
+                "x": 573,
+                "y": 714
+              },
+              {
+                "h": 64,
+                "w": 64,
+                "x": 576,
+                "y": 868
+              },
+              {
+                "h": 98,
+                "w": 98,
+                "x": 192,
+                "y": 346
+              },
+              {
+                "h": 96,
+                "w": 96,
+                "x": 229,
+                "y": 348
+              },
+              {
+                "h": 97,
+                "w": 97,
+                "x": 429,
+                "y": 707
+              },
+              {
+                "h": 112,
+                "w": 112,
+                "x": 414,
+                "y": 339
+              },
+              {
+                "h": 103,
+                "w": 103,
+                "x": 436,
+                "y": 782
+              },
+              {
+                "h": 111,
+                "w": 111,
+                "x": 358,
+                "y": 382
+              },
+              {
+                "h": 114,
+                "w": 114,
+                "x": 183,
+                "y": 854
+              },
+              {
+                "h": 159,
+                "w": 159,
+                "x": 35,
+                "y": 37
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 44,
+                "w": 44,
+                "x": 338,
+                "y": 421
+              },
+              {
+                "h": 37,
+                "w": 37,
+                "x": 340,
+                "y": 512
+              },
+              {
+                "h": 57,
+                "w": 57,
+                "x": 113,
+                "y": 204
+              },
+              {
+                "h": 56,
+                "w": 56,
+                "x": 135,
+                "y": 205
+              },
+              {
+                "h": 57,
+                "w": 57,
+                "x": 253,
+                "y": 417
+              },
+              {
+                "h": 66,
+                "w": 66,
+                "x": 244,
+                "y": 200
+              },
+              {
+                "h": 60,
+                "w": 60,
+                "x": 257,
+                "y": 462
+              },
+              {
+                "h": 65,
+                "w": 65,
+                "x": 211,
+                "y": 225
+              },
+              {
+                "h": 67,
+                "w": 67,
+                "x": 108,
+                "y": 504
+              },
+              {
+                "h": 93,
+                "w": 93,
+                "x": 20,
+                "y": 21
+              }
+            ]
+          }
+        },
+        "id_str": "2103325466518081536",
+        "indices": [
+          283,
+          306
+        ],
+        "media_key": "3_2103325466518081536",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103325466518081536"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HTCDXi7X0AANS66.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 422,
+              "w": 753,
+              "x": 0,
+              "y": 508
+            },
+            {
+              "h": 753,
+              "w": 753,
+              "x": 0,
+              "y": 343
+            },
+            {
+              "h": 858,
+              "w": 753,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 1151,
+              "w": 576,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1151,
+              "w": 753,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1151,
+          "width": 753
+        },
+        "sizes": {
+          "large": {
+            "h": 1151,
+            "resize": "fit",
+            "w": 753
+          },
+          "medium": {
+            "h": 1151,
+            "resize": "fit",
+            "w": 753
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 445
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0thKgIAzla"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "stateless-zine.netlify.app",
+        "expanded_url": "https://stateless-zine.netlify.app/",
+        "indices": [
+          259,
+          282
+        ],
+        "url": "https://t.co/mnjiROpkAb"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HTCDGnGXsAEAOeR.jpg",
+    "https://pbs.twimg.com/media/HTCDHl8WMAAe-xN.jpg",
+    "https://pbs.twimg.com/media/HTCDJxaXEAAmIN0.jpg",
+    "https://pbs.twimg.com/media/HTCDXi7X0AANS66.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2103103429782716702",
+  "url": "https://x.com/emollick/status/2103103429782716702",
+  "twitterUrl": "https://twitter.com/emollick/status/2103103429782716702",
+  "text": "I just got the first copies of my new book, Co-Existence (out October 20) &amp; they look great!\n\nAlso, there is a fun pre-order bonus: if you pre-order, you get a code to an AI interview that will help you figure out how to use your human advantages with AI. https://t.co/Ti5jo6l05g https://t.co/9ZtHET6mvO",
+  "fullText": "I just got the first copies of my new book, Co-Existence (out October 20) &amp; they look great!\n\nAlso, there is a fun pre-order bonus: if you pre-order, you get a code to an AI interview that will help you figure out how to use your human advantages with AI. https://t.co/Ti5jo6l05g https://t.co/9ZtHET6mvO",
+  "source": "Twitter for iPhone",
+  "retweetCount": 59,
+  "replyCount": 63,
+  "likeCount": 648,
+  "quoteCount": 15,
+  "viewCount": 49090,
+  "createdAt": "Thu Sep 24 12:45:06 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 192,
+  "isReply": false,
+  "conversationId": "2103103429782716702",
+  "possiblySensitive": false,
+  "isPinned": true,
+  "author": {
+    "type": "user",
+    "userName": "emollick",
+    "url": "https://x.com/emollick",
+    "twitterUrl": "https://twitter.com/emollick",
+    "id": "39125788",
+    "name": "Ethan Mollick",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/39125788/1784742782",
+    "description": "Professor @Wharton studying AI.\nNew book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K\nSubstack: https://t.co/UIBhxu4bgq",
+    "location": "Philadelphia, PA",
+    "followers": 391822,
+    "following": 594,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 10 22:33:52 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "co-existence.ai",
+            "expanded_url": "https://co-existence.ai/",
+            "indices": [
+              90,
+              113
+            ],
+            "url": "https://t.co/hsDYf1xU9K"
+          },
+          {
+            "display_url": "oneusefulthing.org",
+            "expanded_url": "https://www.oneusefulthing.org/",
+            "indices": [
+              124,
+              147
+            ],
+            "url": "https://t.co/UIBhxu4bgq"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+            "expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/uItckI9ujc"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7334,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 14622,
+    "statusesCount": 37029,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2103103429782716702"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9ZtHET6mvO",
+        "expanded_url": "https://x.com/emollick/status/2103103429782716702/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2103103420781535232",
+        "indices": [
+          284,
+          307
+        ],
+        "media_key": "3_2103103420781535232",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103103420781535232"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HS-5ayGXoAAD6OL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 1188
+            },
+            {
+              "h": 1536,
+              "w": 1536,
+              "x": 0,
+              "y": 512
+            },
+            {
+              "h": 1751,
+              "w": 1536,
+              "x": 0,
+              "y": 297
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 460,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9ZtHET6mvO"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9ZtHET6mvO",
+        "expanded_url": "https://x.com/emollick/status/2103103429782716702/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2103103420781535232",
+        "indices": [
+          284,
+          307
+        ],
+        "media_key": "3_2103103420781535232",
+        "media_results": {
+          "result": {
+            "media_key": "3_2103103420781535232"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HS-5ayGXoAAD6OL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 1188
+            },
+            {
+              "h": 1536,
+              "w": 1536,
+              "x": 0,
+              "y": 512
+            },
+            {
+              "h": 1751,
+              "w": 1536,
+              "x": 0,
+              "y": 297
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 460,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9ZtHET6mvO"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "co-existence.ai",
+        "expanded_url": "https://co-existence.ai/",
+        "indices": [
+          260,
+          283
+        ],
+        "url": "https://t.co/Ti5jo6l05g"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HS-5ayGXoAAD6OL.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2103272686570918334",
+  "url": "https://x.com/emollick/status/2103272686570918334",
+  "twitterUrl": "https://twitter.com/emollick/status/2103272686570918334",
+  "text": "Um, wow?\n\nOpus 5.5: \"make the same message much more interesting to a social media audience that loves anime and quick clips and compressed learning\"\n\nOne shot.\n\nAlso, please do stay for the closing song. https://t.co/9AZxQCwKQ7",
+  "fullText": "Um, wow?\n\nOpus 5.5: \"make the same message much more interesting to a social media audience that loves anime and quick clips and compressed learning\"\n\nOne shot.\n\nAlso, please do stay for the closing song. https://t.co/9AZxQCwKQ7",
+  "source": "Twitter Web App",
+  "retweetCount": 62,
+  "replyCount": 59,
+  "likeCount": 1071,
+  "quoteCount": 19,
+  "viewCount": 98221,
+  "createdAt": "Thu Sep 24 23:57:40 +0000 2026",
+  "lang": "en",
+  "quoteId": "2100767116819325141",
+  "bookmarkCount": 640,
+  "isReply": false,
+  "conversationId": "2103272686570918334",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "emollick",
+    "url": "https://x.com/emollick",
+    "twitterUrl": "https://twitter.com/emollick",
+    "id": "39125788",
+    "name": "Ethan Mollick",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/39125788/1784742782",
+    "description": "Professor @Wharton studying AI.\nNew book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K\nSubstack: https://t.co/UIBhxu4bgq",
+    "location": "Philadelphia, PA",
+    "followers": 391822,
+    "following": 594,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 10 22:33:52 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "co-existence.ai",
+            "expanded_url": "https://co-existence.ai/",
+            "indices": [
+              90,
+              113
+            ],
+            "url": "https://t.co/hsDYf1xU9K"
+          },
+          {
+            "display_url": "oneusefulthing.org",
+            "expanded_url": "https://www.oneusefulthing.org/",
+            "indices": [
+              124,
+              147
+            ],
+            "url": "https://t.co/UIBhxu4bgq"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+            "expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/uItckI9ujc"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7334,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 14622,
+    "statusesCount": 37029,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2103103429782716702"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.x.com/9AZxQCwKQ7",
+        "expanded_url": "https://x.com/emollick/status/2103272686570918334/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2103272247418908672",
+        "indices": [
+          205,
+          228
+        ],
+        "media_key": "13_2103272247418908672",
+        "media_results": {
+          "result": {
+            "media_key": "13_2103272247418908672"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2103272247418908672/img/Af9EtBVQ5ZZXOAP8.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 1920
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/9AZxQCwKQ7",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 127325,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/pl/8y0_bVK4GvQ8uaNn.m3u8?tag=29&v=489"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/vid/avc1/480x270/0IRrQwgwVlnOWST7.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/vid/avc1/640x360/1ZVyi6eEtuz4gUZt.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/vid/avc1/1280x720/voEQY2_RZx4YkdLZ.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/vid/avc1/1920x1080/Ldr5wfY5COSHMX62.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.x.com/9AZxQCwKQ7",
+        "expanded_url": "https://x.com/emollick/status/2103272686570918334/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2103272247418908672",
+        "indices": [
+          205,
+          228
+        ],
+        "media_key": "13_2103272247418908672",
+        "media_results": {
+          "result": {
+            "media_key": "13_2103272247418908672"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2103272247418908672/img/Af9EtBVQ5ZZXOAP8.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 1920
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/9AZxQCwKQ7",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 127325,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/pl/8y0_bVK4GvQ8uaNn.m3u8?tag=29&v=489"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/vid/avc1/480x270/0IRrQwgwVlnOWST7.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/vid/avc1/640x360/1ZVyi6eEtuz4gUZt.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/vid/avc1/1280x720/voEQY2_RZx4YkdLZ.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2103272247418908672/vid/avc1/1920x1080/Ldr5wfY5COSHMX62.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2100767116819325141",
+    "text": "Hey Claude, \"Pick a problem or mystery that obsesses you and solve it as best you can &amp; make a movie we can share on social media about it\"\n\nSo it took a crack at the Voynich Manuscript &amp; failed. Then it made this movie, which is pretty interesting to watch and a good explainer. https://t.co/CLhT0BbXcu",
+    "source": "Twitter Web App",
+    "retweetCount": 287,
+    "replyCount": 121,
+    "likeCount": 2424,
+    "quoteCount": 43,
+    "viewCount": 237005,
+    "createdAt": "Fri Sep 18 02:01:25 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 1669,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "emollick",
+      "url": "https://x.com/emollick",
+      "twitterUrl": "https://twitter.com/emollick",
+      "id": "39125788",
+      "name": "Ethan Mollick",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/39125788/1784742782",
+      "description": "Professor @Wharton studying AI.\nNew book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K\nSubstack: https://t.co/UIBhxu4bgq",
+      "location": "Philadelphia, PA",
+      "followers": 391822,
+      "following": 594,
+      "protected": false,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sun May 10 22:33:52 +0000 2009",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "co-existence.ai",
+              "expanded_url": "https://co-existence.ai/",
+              "indices": [
+                90,
+                113
+              ],
+              "url": "https://t.co/hsDYf1xU9K"
+            },
+            {
+              "display_url": "oneusefulthing.org",
+              "expanded_url": "https://www.oneusefulthing.org/",
+              "indices": [
+                124,
+                147
+              ],
+              "url": "https://t.co/UIBhxu4bgq"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+              "expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uItckI9ujc"
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 7334,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 14622,
+      "statusesCount": 37029,
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2103103429782716702"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/CLhT0BbXcu",
+          "expanded_url": "https://x.com/emollick/status/2100767116819325141/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "2100766551670398976",
+          "indices": [
+            288,
+            311
+          ],
+          "media_key": "13_2100766551670398976",
+          "media_results": {
+            "result": {
+              "media_key": "13_2100766551670398976"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2100766551670398976/img/n31lXicRCH9Pw3VV.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1080,
+            "width": 1920
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/CLhT0BbXcu",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 247233,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/pl/_DVkgL-4DJmjA_8L.m3u8?tag=29&v=ab2"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/vid/avc1/480x270/9LwWF4qs1cicphto.mp4?tag=29"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/vid/avc1/640x360/gjZKkCXoO6ShmkjP.mp4?tag=29"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/vid/avc1/1280x720/3S1le8gYZRuXZvSg.mp4?tag=29"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/vid/avc1/1920x1080/2OdaFcSwrelicMQZ.mp4?tag=29"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/CLhT0BbXcu",
+          "expanded_url": "https://x.com/emollick/status/2100767116819325141/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "2100766551670398976",
+          "indices": [
+            288,
+            311
+          ],
+          "media_key": "13_2100766551670398976",
+          "media_results": {
+            "result": {
+              "media_key": "13_2100766551670398976"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2100766551670398976/img/n31lXicRCH9Pw3VV.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1080,
+            "width": 1920
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/CLhT0BbXcu",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 247233,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/pl/_DVkgL-4DJmjA_8L.m3u8?tag=29&v=ab2"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/vid/avc1/480x270/9LwWF4qs1cicphto.mp4?tag=29"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/vid/avc1/640x360/gjZKkCXoO6ShmkjP.mp4?tag=29"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/vid/avc1/1280x720/3S1le8gYZRuXZvSg.mp4?tag=29"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100766551670398976/vid/avc1/1920x1080/2OdaFcSwrelicMQZ.mp4?tag=29"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2103272247418908672/img/Af9EtBVQ5ZZXOAP8.jpg"
+  ],
+  "isConversationControlled": false
+}]
